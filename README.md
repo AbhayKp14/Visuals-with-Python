@@ -1,5 +1,5 @@
 # Visuals-with-Python
-# Welcome to Python Visualization Studio! This repository contains a collection of data visualizations created using popular Python libraries such as matplotlib and seaborn. Each visual represents different types of charts and graphs, showcasing a variety of data analysis techniques.
+# Welcome to Python Visualization Studio! This repository contains a collection of data visualizations created using popular Python libraries such as matplotlib. Each visual represents different types of charts and graphs, showcasing a variety of data analysis techniques.
 # Charts Included
 # This repository contains the following types of charts:
 # Line Charts – Simple and multi-line charts for tracking trends over time.
@@ -15,4 +15,3 @@
 # Libraries Used
 # This project uses the following Python libraries:
 # Matplotlib – For general plotting and creating a wide variety of charts.
-# Seaborn – For statistical data visualization with beautiful color themes and functions built on top of matplotlib.

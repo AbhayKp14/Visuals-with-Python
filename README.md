@@ -15,3 +15,4 @@
 # Libraries Used
 # This project uses the following Python libraries:
 # Matplotlib – For general plotting and creating a wide variety of charts.
+# ![image](https://github.com/user-attachments/assets/c5193bb1-dcb5-4ca1-b234-f7cd7cd34f2d)
